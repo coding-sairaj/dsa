@@ -5,6 +5,7 @@
 - [Arrays](#arrays)
 - [Linked List](#linked-list)
 - [Hash Table](#hash-table)
+- [Stacks](#stacks)
 
 ### **Time Complexity**
 
@@ -34,5 +35,12 @@ Learned how to calculate time complexity using Big-O notation
 - We implemented normal hash table
 - We implemented hash table handling collisions (Chaining and linear probing)
 - Assignment related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/4_HashTable_2_Collisions/4_hash_table_exercise.md)
+
+[Back to Top](#course-1)
+
+### **Stacks**
+
+- Implemented using pythons collections.deque
+- Assignment related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/5_Stack/5_stack_exercise.md)
 
 [Back to Top](#course-1)
