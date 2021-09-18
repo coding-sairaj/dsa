@@ -23,8 +23,8 @@ Learned how to calculate time complexity using Big-O notation
 
 - Learned about complexity for different operations
 - Implemented linked list in python
-- Assignment related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/3_LinkedList/3_linked_list_exercise.md)
 - Implemented double linked list in python
+- Assignment related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/3_LinkedList/3_linked_list_exercise.md)
 
 [Back to Top](#course-1)
 
