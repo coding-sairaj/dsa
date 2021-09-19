@@ -1,4 +1,4 @@
 # **Data structures and Algorithms**
 
 ## Courses
-- [Course 1](./Course%201/Readme.md)
+- [Course 1 - DSA by codebasics](./Course%201/Readme.md)

@@ -1,4 +1,4 @@
-# Course 1
+# DSA by Code basics
 
 ## **Sections**
 - [Time complexity](#time-complexity)
