@@ -11,14 +11,14 @@
 
 Learned how to calculate time complexity using Big-O notation
 
-[Back to Top](#course-1)
+[Back to Top](#dsa-by-code-basics)
 
 ### **Arrays**
 
 - Learned about static and dynamic arrays and their memory allocation.
 - Assignment related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/2_Arrays/2_arrays_exercise.md)
 
-[Back to Top](#course-1)
+[Back to Top](#dsa-by-code-basics)
 
 ### **Linked List**
 
@@ -27,7 +27,7 @@ Learned how to calculate time complexity using Big-O notation
 - Implemented double linked list in python
 - Assignment related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/3_LinkedList/3_linked_list_exercise.md)
 
-[Back to Top](#course-1)
+[Back to Top](#dsa-by-code-basics)
 
 ### **Hash Table**
 
@@ -36,11 +36,11 @@ Learned how to calculate time complexity using Big-O notation
 - We implemented hash table handling collisions (Chaining and linear probing)
 - Assignment related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/4_HashTable_2_Collisions/4_hash_table_exercise.md)
 
-[Back to Top](#course-1)
+[Back to Top](#dsa-by-code-basics)
 
 ### **Stacks**
 
 - Implemented using pythons collections.deque
 - Assignment related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/5_Stack/5_stack_exercise.md)
 
-[Back to Top](#course-1)
+[Back to Top](#dsa-by-code-basics)
