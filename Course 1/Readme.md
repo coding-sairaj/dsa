@@ -6,6 +6,8 @@
 - [Linked List](#linked-list)
 - [Hash Table](#hash-table)
 - [Stacks](#stacks)
+- [Queue](#queue)
+- [Tree](#tree)
 
 ### **Time Complexity**
 
@@ -42,5 +44,19 @@ Learned how to calculate time complexity using Big-O notation
 
 - Implemented using pythons collections.deque
 - Assignment related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/5_Stack/5_stack_exercise.md)
+
+[Back to Top](#dsa-by-code-basics)
+
+### **Queue**
+
+- Implemented using pythons collections.deque
+- Assignment related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/6_Queue/6_queue_exercise.md)
+
+[Back to Top](#dsa-by-code-basics)
+
+### **Tree**
+
+- We will be creating generic tree
+- Assignment related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/7_Tree/7_tree_exercise.md)
 
 [Back to Top](#dsa-by-code-basics)
