@@ -90,16 +90,16 @@ class BinarySearchTreeNode:
         else:
             if self.left is None and self.right is None:
                 return None
-            if self.left is None:
+            elif self.left is None:
                 return self.right
-            if self.right is None:
+            elif self.right is None:
                 return self.left
 
             min_val = self.right.find_min()
             self.data = min_val
             self.right = self.right.delete(min_val)
 
-            return self
+        return self
 
 def build_tree(elements):
     root = BinarySearchTreeNode(elements[0])
