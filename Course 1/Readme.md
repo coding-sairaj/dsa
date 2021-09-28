@@ -8,6 +8,7 @@
 - [Stacks](#stacks)
 - [Queue](#queue)
 - [Tree](#tree)
+- [Binary Search Tree](#binary-search-tree)
 
 ### **Time Complexity**
 
@@ -58,5 +59,12 @@ Learned how to calculate time complexity using Big-O notation
 
 - We will be creating generic tree
 - Assignment related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/7_Tree/7_tree_exercise.md)
+
+[Back to Top](#dsa-by-code-basics)
+
+### **Binary Search Tree**
+
+- Implemented BST and performed inorder, preorder and post order traversal
+- Assignment1 related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/8_Binary_Tree_1/8_binary_tree_part_1_exercise.md)
 
 [Back to Top](#dsa-by-code-basics)
