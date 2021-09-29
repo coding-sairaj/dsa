@@ -9,6 +9,7 @@
 - [Queue](#queue)
 - [Tree](#tree)
 - [Binary Search Tree](#binary-search-tree)
+- [Graph](#graph)
 
 ### **Time Complexity**
 
@@ -65,6 +66,24 @@ Learned how to calculate time complexity using Big-O notation
 ### **Binary Search Tree**
 
 - Implemented BST and performed inorder, preorder and post order traversal
-- Assignment1 related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/8_Binary_Tree_1/8_binary_tree_part_1_exercise.md)
+- Terminology
+    - Nodes
+    - Left sub tree
+    - Right sub tree
+    - Parents, Ancestors, Child
+    - Depth, Height
+    - Assignment1 related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/8_Binary_Tree_1/8_binary_tree_part_1_exercise.md)
+    - Binary search assignment in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/algorithms/1_BinarySearch/binary_search_exercise.md)
+
+[Back to Top](#dsa-by-code-basics)
+
+### **Graph**
+
+- Graph data structures have undirected graphs and directed graphs
+- Terminology
+    - Nodes
+    - Edges
+    - Weights
+- Assignment related to this section is in the [link](https://github.com/codebasics/data-structures-algorithms-python/blob/master/data_structures/7_Tree/7_tree_exercise.md)
 
 [Back to Top](#dsa-by-code-basics)
